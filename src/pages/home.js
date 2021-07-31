@@ -8,7 +8,7 @@ class Home extends Component {
                 <h1 style={{marginLeft: -10, marginBottom: 20}}>Welcome!</h1>
                 <p>
                     The url and navbar probably clued you in, but I'm Austin Spears.
-                    I have been developing software professionally for over seven years 
+                    I have been developing software professionally for over nine years 
                     with a primary focus on creating desktop applications using XAML and C#.
                     <br/>
                     <br/>
